@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Basil070104
-- 👀 I’m interested in the Guitaer, Singing, and Skating
+- 👀 I’m interested in the playing the guitar, singing, and soon surfing
 - 🌱 I’m currently learning to be a Full Stack Developer
 - 💞️ I’m looking to collaborate on App Dev
 - 📫 How to reach me khwajabasil@gmail.com
