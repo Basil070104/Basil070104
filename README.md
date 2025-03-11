@@ -8,14 +8,28 @@
 ---
 
 ## 🔧 Technologies & Tools  
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)  
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=cplusplus&logoColor=white)  
-![ROS](https://img.shields.io/badge/-ROS-22314E?style=flat&logo=ros&logoColor=white)  
-![SystemVerilog](https://img.shields.io/badge/-SystemVerilog-blue?style=flat)  
-![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?style=flat&logo=react&logoColor=white)  
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=white)  
-![Matlab](https://img.shields.io/badge/-MATLAB-orange?style=flat&logo=mathworks&logoColor=white)  
-
+<table>
+  <tr>
+    <td><img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white"></td>
+    <td><img src="https://img.shields.io/badge/-C++-00599C?style=flat&logo=cplusplus&logoColor=white"></td>
+    <td><img src="https://img.shields.io/badge/-SystemVerilog-blue?style=flat"></td>
+  </tr>
+  <tr>
+    <td><img src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white"></td>
+    <td><img src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white"></td>
+    <td><img src="https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white"></td>
+  </tr>
+  <tr>
+    <td><img src="https://img.shields.io/badge/-ROS-22314E?style=flat&logo=ros&logoColor=white"></td>
+    <td><img src="https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=white"></td>
+    <td><img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white"></td>
+  </tr>
+  <tr>
+    <td><img src="https://img.shields.io/badge/-MATLAB-orange?style=flat&logo=mathworks&logoColor=white"></td>
+    <td><img src="https://img.shields.io/badge/-React%20Native-61DAFB?style=flat&logo=react&logoColor=white"></td>
+    <td><img src="https://img.shields.io/badge/-KiCad-blue?style=flat&logo=kicad&logoColor=white"></td>
+  </tr>
+</table
 ---
 
 ## 🌱 Current Projects  
