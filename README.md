@@ -20,14 +20,8 @@
 
 ## 🌱 Current Projects  
 🚗 **MuSHR Car Navigation Research** – Implementing autonomous navigation & path-planning algorithms  
-🕺 **LPCV BenchMarck Tool** – Developing quality detection of AI generated images through the implementation of CMMD (CLIP Maximum Mean Discrepency) 
+🕺 **LPCV BenchMarck Tool** – Developing quality detection of AI-generated images through the implementation of CMMD (CLIP Maximum Mean Discrepency) 
 🚀 **SWE-Agent** – Designing and implementing my SWE-Agent to learn how I code
-
----
-
-## 📈 GitHub Stats  
-![Basil's GitHub stats](https://github-readme-stats.vercel.app/api?username=basilkhwaja&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=basilkhwaja&layout=compact&theme=radical)  
 
 ---
 
