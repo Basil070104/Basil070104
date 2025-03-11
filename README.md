@@ -29,7 +29,7 @@
     <td><img src="https://img.shields.io/badge/-React%20Native-61DAFB?style=flat&logo=react&logoColor=white"></td>
     <td><img src="https://img.shields.io/badge/-KiCad-blue?style=flat&logo=kicad&logoColor=white"></td>
   </tr>
-</table
+</table>
 ---
 
 ## 🌱 Current Projects  
