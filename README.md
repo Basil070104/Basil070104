@@ -30,7 +30,6 @@
     <td><img src="https://img.shields.io/badge/-KiCad-blue?style=flat&logo=kicad&logoColor=white"></td>
   </tr>
 </table>
----
 
 ## 🌱 Current Projects  
 🚗 **MuSHR Car Navigation Research** – Implementing autonomous navigation & path-planning algorithms  
