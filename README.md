@@ -2,8 +2,10 @@
 
 ## 🚀 About Me  
 🎓 **Computer Engineering @ Purdue (B.S.) | Electrical & Computer Engineering @ Purdue (M.Eng.)**  
-🔬 **Researcher in AI/ML, Robotics, & Autonomous Navigation**  
-💡 Passionate about **robotics, AI/ML on low-powered systems, and AI agents**  
+🔬 **Researcher in Control Theory, Reinforcement Learning, and Mechanistic Interpretability**  
+
+## Research Interests
+The intersection of reinforcement learning and mechanistic interpretability, aimed at uncovering the internal mechanisms that govern agent behavior and developing principled methods to diagnose, steer, and align learning systems.
 
 ---
 
