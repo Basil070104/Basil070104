@@ -1,6 +1,6 @@
 # Hi, I'm Basil 👋
 
-AI/ML engineer at **SpaceX** (Palo Alto). I work on reinforcement learning, AI safety and interpretability: figuring out what models actually learn, and how to diagnose and steer them.
+Engineer at **SpaceX** (Palo Alto). My research is in reinforcement learning, AI safety and interpretability: figuring out what models actually learn, and how to diagnose and steer them.
 
 Purdue Computer Engineering (BS '25) · ECE (MS '26) · researcher at KTK Lab
 
