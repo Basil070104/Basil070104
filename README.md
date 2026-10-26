@@ -1,52 +1,37 @@
-# Hi there, I'm Basil Khwaja! 👋  
+# Hi, I'm Basil 👋
 
-## 🚀 About Me  
-🎓 **Computer Engineering @ Purdue (B.S.) | Electrical & Computer Engineering @ Purdue (M.Eng.)**  
-🔬 **Researcher in Control Theory, Reinforcement Learning, and Mechanistic Interpretability**  
+AI/ML engineer at **SpaceX** (Palo Alto). I work on reinforcement learning, AI safety and interpretability: figuring out what models actually learn, and how to diagnose and steer them.
 
-## Research Interests
-The intersection of reinforcement learning and mechanistic interpretability, aimed at uncovering the internal mechanisms that govern agent behavior and developing principled methods to diagnose, steer, and align learning systems.
+Purdue Computer Engineering (BS '25) · ECE (MS '26) · researcher at KTK Lab
 
----
+## Now
+- Software Engineer @ SpaceX (since Sep 2026)
+- SycEval-EA: sycophancy evaluation (NeurIPS 2026 workshop submission)
+- Learning GPU programming in [CUDA-Projects](https://github.com/Basil070104/CUDA-Projects)
 
-## 🔧 Technologies & Tools  
-<table>
-  <tr>
-    <td><img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white"></td>
-    <td><img src="https://img.shields.io/badge/-C++-00599C?style=flat&logo=cplusplus&logoColor=white"></td>
-    <td><img src="https://img.shields.io/badge/-SystemVerilog-blue?style=flat"></td>
-  </tr>
-  <tr>
-    <td><img src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white"></td>
-    <td><img src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white"></td>
-    <td><img src="https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white"></td>
-  </tr>
-  <tr>
-    <td><img src="https://img.shields.io/badge/-ROS-22314E?style=flat&logo=ros&logoColor=white"></td>
-    <td><img src="https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=white"></td>
-    <td><img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white"></td>
-  </tr>
-  <tr>
-    <td><img src="https://img.shields.io/badge/-MATLAB-orange?style=flat&logo=mathworks&logoColor=white"></td>
-    <td><img src="https://img.shields.io/badge/-React%20Native-61DAFB?style=flat&logo=react&logoColor=white"></td>
-    <td><img src="https://img.shields.io/badge/-KiCad-blue?style=flat&logo=kicad&logoColor=white"></td>
-  </tr>
-</table>
+## Research
+- **Tracing Pharmacological Knowledge in LLMs**, ICLR 2026 workshop · [arXiv:2603.03407](https://arxiv.org/abs/2603.03407)
+- **SycEval-EA**, NeurIPS 2026 workshop (submitted)
+- **AEM**, MS thesis, Purdue ECE
+- All papers: [Google Scholar](https://scholar.google.com/citations?user=td90uOYAAAAJ)
 
-## 🌱 Current Projects  
-🚗 **MuSHR Car Navigation Research** – Implementing autonomous navigation & path-planning algorithms  
-🕺 **LPCV BenchMarck Tool** – Developing quality detection of AI-generated images through the implementation of CMMD (CLIP Maximum Mean Discrepency) 
-🚀 **SWE-Agent** – Designing and implementing my SWE-Agent to learn how I code
+## Selected projects
+| Project | What it is |
+|---|---|
+| 🏆 **Hugo** | 1st place, HackTech 2025 ([Devpost](https://devpost.com/khwajabasil)) |
+| [CUDA-Projects](https://github.com/Basil070104/CUDA-Projects) | Hands-on CUDA kernels and GPU performance experiments |
+| [ros-sims](https://github.com/Basil070104/ros-sims) | ROS motion-planning simulations for autonomous navigation (MuSHR) |
+| [SWE-agent](https://github.com/Basil070104/SWE-agent) | Reimplementation of Princeton's SWE-agent |
+| [CMMD](https://github.com/Basil070104/CMMD) | CLIP-MMD image-quality metric for AI-generated images (LPCV) |
+| [trace_ai](https://github.com/Basil070104/trace_ai) | Trace AI, HackGT project |
+| [teach.me](https://github.com/Basil070104/teach.me) | TeachMe, AI tutoring hackathon project |
 
----
+More hackathon builds (Vo, Swerve, TeachMe, Trace AI) on [Devpost](https://devpost.com/khwajabasil).
 
-## 📫 Connect with Me  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/basilkhwaja/)  
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/basilkhwaja)  
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:khwajabasil@gmail.com)  
+## Skills
+**ML:** PyTorch, RL, LLM evaluation & interpretability · **Systems:** C/C++, CUDA, Python · **Robotics:** ROS/ROS 2 · **Hardware:** SystemVerilog, KiCad · **Web:** TypeScript, React, Vercel
 
+## Links
+[Website](https://www.basilkhwaja.com) · [LinkedIn](https://www.linkedin.com/in/basil-khwaja) · [X @basilk_07](https://x.com/basilk_07) · [Scholar](https://scholar.google.com/citations?user=td90uOYAAAAJ) · [Devpost](https://devpost.com/khwajabasil) · [Email](mailto:khwajabasil@gmail.com)
 
-<!---
-Basil070104/Basil070104 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<sub>Off the keyboard I play guitar in Holladaze! 🎸</sub>
